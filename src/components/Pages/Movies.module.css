@@ -1,0 +1,43 @@
+.moviesContainer {
+  margin: 20px;
+  margin-left: 32px;
+}
+.movies {
+  padding: 20px;
+}
+.movies ul {
+  padding: 0;
+  margin-left: 25px;
+}
+.listItem {
+  margin-bottom: 10px;
+}
+.listItem a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #000;
+}
+.listItem a:visited {
+  color: #000;
+}
+.listItem a:hover {
+  color: #20be28;
+  border: solid 1px #20be28;
+  padding: 5px;
+  font-weight: 700;
+}
+form {
+  margin-top: 20px;
+}
+input {
+  margin-right: 10px;
+  outline: none;
+  padding: 5px;
+}
+.submitBtn {
+  padding: 7px;
+  background-color: #20be28;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}

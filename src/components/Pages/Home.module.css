@@ -1,0 +1,28 @@
+.home {
+  margin: 30px;
+}
+.home h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+.home ul {
+  padding: 0;
+  margin-left: 25px;
+}
+.listItem {
+  margin-bottom: 10px;
+}
+.listItem a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #000;
+}
+.listItem a:visited {
+  color: #000;
+}
+.listItem a:hover {
+  color: #beb620;
+  border: solid 1px #be204f;
+  padding: 5px;
+  font-weight: 700;
+}

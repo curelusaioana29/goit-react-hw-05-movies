@@ -1,0 +1,43 @@
+.castContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.actorCard {
+  text-align: center;
+  width: 200px;
+}
+.actorCard img {
+  width: 100%;
+}
+.actorImage {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.actorName {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.characterName {
+  font-size: 1rem;
+  color: #666;
+  width: 100%;
+}
+.noImageBanner {
+  width: 200px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eaeaea;
+  color: #555;
+  font-size: 1rem;
+  border-radius: 10px;
+}
